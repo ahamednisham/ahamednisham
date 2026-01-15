@@ -12,8 +12,7 @@
 <p align="left">
 <a href="https://github.com/ahamednisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahamednisham" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/nishamahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishamahamed" height="30" width="40" /></a>  
-<a href="https://instagram.com/ahamednisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahamednisham" height="30" width="40" /></a>  
-<a href="https://discord.gg/raizin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raizin" height="30" width="40" /></a>
+<a href="https://instagram.com/ahamednisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahamednisham" height="30" width="40" /></a>
 </p>
 
 ### 🌐 Languages
