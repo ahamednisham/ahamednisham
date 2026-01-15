@@ -23,5 +23,5 @@
 
 <p><img align="left" src="https://github-readme-stats-flame-psi-fzb8ypcugh.vercel.app/api/top-langs?username=ahamednisham&show_icons=true&locale=en&layout=compact" alt="ahamednisham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-flame-psi-fzb8ypcugh.vercel.app/api?username=ahamednisham&show_icons=true&locale=en" alt="ahamednisham" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-flame-psi-fzb8ypcugh.vercel.app/api?username=ahamednisham&show_icons=true&locale=en" alt="ahamednisham" /> </p>
 
